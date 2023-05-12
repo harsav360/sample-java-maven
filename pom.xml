@@ -24,6 +24,12 @@
 				<version>2.4</version>
 				<type>maven-plugin</type>
 			</dependency>
+			<dependency>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-enforcer-plugin</artifactId>
+				<version>3.0.0-M3</version>
+				<type>maven-plugin</type>
+			</dependency>
 			
 		</dependencies>
 	</dependencyManagement>
